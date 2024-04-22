@@ -1,6 +1,6 @@
 # Tech for mobile apps
 ## Personal Mobile App Project Final 
-## RPS-game
+## TO do list manager
 ##  Team 46
 Name: 
 1 Kundaram ujwala reddy 
