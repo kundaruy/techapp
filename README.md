@@ -24,6 +24,8 @@ The modal contains an input field to edit the task name and two buttons labeled 
 The interface provides functionality to add new tasks, edit existing tasks, mark tasks as completed/uncompleted by toggling checkboxes, delete tasks, and clear completed tasks from the list. The UI is styled with appropriate colors, fonts, and spacing to provide a visually appealing and user-friendly experience.
 
 Code:
+
+
 Imports: The code imports necessary components from the React Native library such as React, useState, and UI components like View, Text, TextInput, TouchableOpacity, FlatList, StyleSheet, and Modal.
 Functional Component Declaration: The code defines a functional component named App.
 State Variables: Inside the App component, several state variables are declared using the useState hook. These variables manage the task input (task), priority input (priority), details input (details), the list of tasks (tasks), the index of the task being edited (editIndex), whether the modal is visible or not (modalVisible), and the index of the selected task (selectedTaskIndex).
