@@ -30,8 +30,12 @@ When the "Edit" button of a task is clicked, a modal pops up.
 The modal contains an input field to edit the task name and two buttons labeled "Save" and "Cancel".
 The interface provides functionality to add new tasks, edit existing tasks, mark tasks as completed/uncompleted by toggling checkboxes, delete tasks, and clear completed tasks from the list. The UI is styled with appropriate colors, fonts, and spacing to provide a visually appealing and user-friendly experience.
 
-Code:
+![img/1.jpeg](img/1.jpeg)
 
+![img/2.jpeg](img/2.jpeg)
+
+
+Code:
 
 Imports: The code imports necessary components from the React Native library such as React, useState, and UI components like View, Text, TextInput, TouchableOpacity, FlatList, StyleSheet, and Modal.
 Functional Component Declaration: The code defines a functional component named App.
