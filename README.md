@@ -1,3 +1,10 @@
+# Tech for mobile apps
+## Personal Mobile App Project Final 
+## RPS-game
+##  Team 46
+Name: 
+1 Kundaram ujwala reddy 
+2 sneha jillela
 
 Output:
 
